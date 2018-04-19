@@ -3,7 +3,6 @@
       (:require t :name "init-asdf.lisp")
       (:require t :name "init-cffi.lisp")
       (:require t :name "init-libs.lisp")
-      (:require t :name "init-mgl-mat.lisp")
       (:require t :name "init-wbs.lisp")
       (:require t :name "init-aws.lisp")
       (:require t :name "init-others")))
