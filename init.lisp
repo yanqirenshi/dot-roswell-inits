@@ -1,5 +1,6 @@
 (defun init-files ()
-    '((:require t :name "init-sbcl.lisp")
+    '((:require t :name "init-diers.lisp")
+      (:require t :name "init-sbcl.lisp")
       (:require t :name "init-asdf.lisp")
       (:require t :name "init-cffi.lisp")
       (:require t :name "init-libs.lisp")

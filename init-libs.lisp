@@ -1,4 +1,9 @@
 ;;;;;
+;;;;; FAD
+;;;;;
+(ql:quickload :cl-fad)
+
+;;;;;
 ;;;;; HTTP
 ;;;;;
 (ql:quickload :dexador)
