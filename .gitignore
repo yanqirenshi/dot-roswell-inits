@@ -1,0 +1,12 @@
+*
+!.gitignore
+!README.md
+!init.lisp
+!init-asdf.lisp
+!init-aws.lisp
+!init-cffi.lisp
+!init-libs.lisp
+!init-others.template.lisp
+!init-sbcl.lisp
+!init-wbs.lisp
+!init-nobita.lisp
