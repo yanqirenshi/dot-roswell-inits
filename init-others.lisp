@@ -21,3 +21,12 @@
 ;;;;; Qiita:Team
 ;;;;;
 (defvar *tokens* '(("Qiita:Team" . "94375abf09f9a0aec063927bd8ccc6025a7acf4e")))
+
+;;;
+;;; Log
+;;;
+(setf aws:*PRINT-COMMAND-STREAM*
+      (open #p"/Users/satoshi.iwasaki/logs/aws/logs.log"
+            :direction :output
+            :if-exists :append
+            :if-does-not-exist :create))
