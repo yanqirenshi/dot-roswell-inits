@@ -10,3 +10,4 @@
 !init-sbcl.lisp
 !init-wbs.lisp
 !init-nobita.lisp
+!init-ter.lisp

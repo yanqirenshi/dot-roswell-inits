@@ -7,6 +7,7 @@
       (:require t :name "init-wbs.lisp")
       (:require t :name "init-aws.lisp")
       (:require t :name "init-nobita.lisp")
+      (:require t :name "init-ter.lisp")
       (:require t :name "init-others")))
 
 (dolist (file (init-files))
