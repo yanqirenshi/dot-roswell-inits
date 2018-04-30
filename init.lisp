@@ -8,7 +8,8 @@
       (:require t :name "init-aws.lisp")
       (:require t :name "init-nobita.lisp")
       (:require t :name "init-ter.lisp")
-      (:require t :name "init-others")))
+      (:require t :name "init-others.lisp")
+      (:require t :name "init-strobolights.lisp")))
 
 (dolist (file (init-files))
   (when (getf file :require)
