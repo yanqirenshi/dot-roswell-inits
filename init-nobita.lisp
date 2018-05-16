@@ -1,2 +1,6 @@
-(ql:quickload :nobita)
-(ql:quickload :nobita.api)
+(ql:quickload :nobit@)
+(ql:quickload :nobit@.api)
+(ql:quickload :nobit@-test)
+
+(nobit@.db:start)
+(nobit@:start)

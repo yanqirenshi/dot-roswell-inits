@@ -8,6 +8,7 @@
       (:require t :name "init-aws.lisp")
       (:require t :name "init-nobita.lisp")
       (:require t :name "init-ter.lisp")
+      (:require t :name "init-spinor.lisp")
       (:require t :name "init-others.lisp")
       (:require t :name "init-strobolights.lisp")))
 

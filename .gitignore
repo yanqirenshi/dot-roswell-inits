@@ -12,3 +12,4 @@
 !init-nobita.lisp
 !init-ter.lisp
 !init-strobolights.lisp
+!init-spinor.lisp
