@@ -1,2 +1,2 @@
 (ql:quickload :strobolights)
-(strobolights:start)
+;; (strobolights:start)
