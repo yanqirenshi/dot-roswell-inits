@@ -13,3 +13,5 @@
 !init-ter.lisp
 !init-strobolights.lisp
 !init-spinor.lisp
+!init-genius-party.lisp
+!init-qupool.lisp
