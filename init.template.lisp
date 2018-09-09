@@ -3,6 +3,7 @@
       (:require t :name "init-sbcl.lisp")
       (:require t :name "init-asdf.lisp")
       (:require t :name "init-cffi.lisp")
+      (:require t :name "init-upanishad.lisp")
       (:require t :name "init-libs.lisp")
       (:require t :name "init-wbs.lisp")
       (:require t :name "init-aws.lisp")

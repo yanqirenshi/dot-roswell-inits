@@ -15,3 +15,5 @@
 !init-spinor.lisp
 !init-genius-party.lisp
 !init-qupool.lisp
+!init-dirs.lisp
+!init-upanishad.lisp
