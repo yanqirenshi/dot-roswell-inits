@@ -1,2 +1,2 @@
 (ql:quickload :upanishad)
-(ql:quickload :upanishad-test)
+;; (ql:quickload :upanishad-test)
